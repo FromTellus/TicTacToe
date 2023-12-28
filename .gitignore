@@ -1,0 +1,49 @@
+# See https://github.com/github/gitignore for more templates
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Editor directories and files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# WebStorm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+*.sublime-*
+
+# ESLint
+.eslintcache
+
+# npm
+*.log
+node_modules/
+npm-debug.log*
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
